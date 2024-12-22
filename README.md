@@ -95,3 +95,5 @@ Feel free to fork the repository, submit issues, and contribute improvements or 
 2. **Enhance Detection Mechanisms**: You can extend the ARP spoofing detection to include timestamp checks, logging suspicious behavior over time, or integrating more sophisticated attack detection mechanisms.
 3. **Cross-Platform Testing**: While the script should work on Linux and macOS, test it across different platforms and document any platform-specific requirements.
 
+ALL PROJECTS IN BRANCH MASTER
+
